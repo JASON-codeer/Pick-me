@@ -111,7 +111,7 @@ button { width: 100%; padding: 0.7rem; }
 <a href="blog.html">Blog</a>
 <a href="shop.html">Shop</a>
 </nav>
-</header>
+</JASONr>
 
 <main>
 <h2>Latest News</h2>
